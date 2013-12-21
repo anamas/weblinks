@@ -33,7 +33,7 @@ header{
 
 h1{
 
-	font-family:Futura;
+	font-family:Futura, Tahoma;
 	letter-spacing:.3em;
 	color:white;
 	text-align:center;
@@ -73,7 +73,7 @@ hr{
 
 
 h2{
-	font-family:Futura;
+	font-family:Futura, Tahoma;
 	text-align:center;
 	border-bottom:.15em solid #1cba76;
 	padding:2em 0;
@@ -114,7 +114,7 @@ article p a:hover{
 
 h3{
 	
-	font-family: Futura;
+	font-family: Futura, Tahoma;
 	color:#454545;
 
 }
@@ -137,15 +137,25 @@ footer{
 	height:70px;
 	background-color:#454545;
 }
+.textofooter{
+
+	max-width:1000px;
+	margin:0 auto;
+	background-color: blue;
+	
+	
+}
+
 
 
 h5 a{
-	font-family:Futura;
+	font-family:Futura, Tahoma;
 	color:#1cba76;
 	text-decoration:none;
 	float:right;
 	font-size:1.5em;
-	margin-right:3em;
+	margin-right:0;
+	
 }
 
 
